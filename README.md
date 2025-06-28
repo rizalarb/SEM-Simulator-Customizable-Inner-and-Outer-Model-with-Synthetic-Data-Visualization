@@ -1,0 +1,2 @@
+# SEM-Simulator-Customizable-Inner-and-Outer-Model-with-Synthetic-Data-Visualization
+This repository provides an intuitive framework for generating customizable SEM models with synthetic data. Perfect for researchers, educators, and data scientists, our simulator enables rapid prototyping of both inner (structural) and outer (measurement) models with full control over parameters, relationships, and data distributions.
